@@ -1,0 +1,27 @@
+body {
+  border: 2px;
+  background-color: green;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background-color: red;
+  font-size: 17px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.all {
+  font-size: 20px;
+}
